@@ -13,12 +13,4 @@ echo "<br>";
 $introduction = "My name is rasel rana and i am complete my study of Rajshahi university department of grography and environmental studies still now try it learn  php and laravel";
 echo $introduction;
 
-
-
-
-
-
-
-
-
 ?>
